@@ -34,3 +34,4 @@
 ### 3. Daily contents
 
 1. Age calculator
+2. Tip calculator

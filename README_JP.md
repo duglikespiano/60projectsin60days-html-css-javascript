@@ -34,3 +34,4 @@
 ### 3. 日別内容
 
 1. Age calculator
+2. Tip calculator

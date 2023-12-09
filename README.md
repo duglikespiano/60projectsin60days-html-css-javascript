@@ -34,3 +34,4 @@
 ### 3. 일별 내용
 
 1. Age calculator
+2. Tip calculator
