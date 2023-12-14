@@ -39,3 +39,4 @@
 4. Dice roll simulator
 5. Pomodoro timer
 6. Rock paper scissors
+7. Stopwatch
