@@ -40,3 +40,4 @@
 5. Pomodoro timer
 6. Rock paper scissors
 7. Stopwatch
+8. Weather app
