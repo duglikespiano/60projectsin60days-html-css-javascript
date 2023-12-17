@@ -42,3 +42,4 @@
 7. Stopwatch
 8. Weather app
 9. Image search app
+10. Calculator
