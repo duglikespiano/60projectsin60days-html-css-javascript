@@ -44,3 +44,4 @@
 9. Image search app
 10. Calculator
 11. Dad jokes generator
+12. Photo gallery
