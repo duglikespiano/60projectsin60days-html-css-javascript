@@ -45,3 +45,4 @@
 10. Calculator
 11. Dad jokes generator
 12. Photo gallery
+13. English dictionary
