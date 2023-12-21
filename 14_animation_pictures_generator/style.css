@@ -1,0 +1,56 @@
+body {
+	display: flex;
+	height: 100vh;
+	font-family: monospace;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to right, lightblue, yellow);
+	margin: 0;
+}
+
+.container {
+	width: 450px;
+	background-color: aliceblue;
+	border-radius: 10px;
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+	text-align: center;
+	padding: 10px;
+	margin: 5px;
+}
+
+.animation-image {
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border: 3px solid green;
+}
+
+.button {
+	background-color: green;
+	color: aliceblue;
+	font-size: 16px;
+	border: none;
+	border-radius: 6px;
+	margin-bottom: 20px;
+	padding: 10px 30px;
+	cursor: pointer;
+}
+
+.button:disabled {
+	background-color: gray;
+	cursor: not-allowed;
+}
+
+.animation-name {
+	color: aliceblue;
+	font-size: 17px;
+	background-color: green;
+	font-weight: 600;
+	border-radius: 6px;
+	padding: 10px;
+	margin: 20px;
+}
+
+.animation-container {
+	display: none;
+}
