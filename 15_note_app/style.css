@@ -1,0 +1,66 @@
+body {
+	background: linear-gradient(to left, lightblue, lightgreen);
+	font-family: 'Courier New', Courier, monospace;
+	margin: 0;
+}
+
+.heading {
+	color: darkblue;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 35px;
+}
+
+.info-text {
+	text-align: center;
+	color: darkblue;
+	font-size: 18px;
+}
+
+.app {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, 300px);
+	gap: 40px;
+	justify-content: center;
+	padding: 50px;
+}
+
+.note {
+	height: 200px;
+	height: 200px;
+	font-size: 18px;
+	color: darkblue;
+	border-radius: 15px;
+	background-color: rgba(255, 255, 255, 0.1);
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+	resize: none;
+	padding: 17px;
+	box-sizing: border-box;
+}
+
+.note::placeholder {
+	color: gray;
+	opacity: 30%;
+}
+
+.note:hover,
+.note:focus {
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	transition: all 0.3s ease;
+}
+
+.button {
+	height: 200px;
+	font-weight: 700;
+	font-size: 70px;
+	color: rgba(0, 0, 0, 0.3);
+	background-color: rgba(255, 255, 255, 0.3);
+	border-color: rgba(255, 255, 255, 0.3);
+	border-radius: 15px;
+}
+
+.button:hover {
+	background: rgba(255, 255, 255, 0.5);
+	color: rgba(0, 0, 0, 0.6);
+	transition: all 0.3s ease;
+}

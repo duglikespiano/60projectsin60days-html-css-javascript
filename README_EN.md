@@ -47,3 +47,4 @@
 12. Photo gallery
 13. English dictionary
 14. Animation pictures generator
+15. Note app
