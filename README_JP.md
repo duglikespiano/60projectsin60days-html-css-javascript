@@ -48,3 +48,4 @@
 13. English dictionary
 14. Animation pictures generator
 15. Note app
+16. BMI calculator
