@@ -49,3 +49,4 @@
 14. Animation pictures generator
 15. Note app
 16. BMI calculator
+17. Random quote generator
