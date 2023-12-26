@@ -1,0 +1,54 @@
+body {
+	display: flex;
+	height: 100vh;
+	font-family: monospace;
+	color: darkcyan;
+	background: linear-gradient(to left bottom, lightgreen, lightblue);
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 85%;
+	min-width: 350px;
+	max-width: 450px;
+	background: rgba(255, 255, 255, 0.3);
+	padding: 20px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+	border-radius: 10px;
+}
+
+.heading {
+	font-size: 32px;
+}
+
+.temperature-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	padding: 15px;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+input {
+	width: 220px;
+	font-size: 20px;
+	font-family: inherit;
+	border-radius: 5px;
+	outline: none;
+	background: rgba(255, 255, 255, 0.3);
+	border-color: rgba(255, 255, 255, 0.5);
+	color: darkgreen;
+	padding: 5px;
+}
+
+input::placeholder {
+	color: darkgray;
+}
