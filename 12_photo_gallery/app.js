@@ -1,4 +1,4 @@
-const APIKey = '';
+const apiKey = '';
 const inputValue = document.querySelector('.input');
 const buttonElement = document.querySelector('.button');
 const galleryElement = document.querySelector('.gallery');

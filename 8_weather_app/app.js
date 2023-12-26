@@ -1,4 +1,4 @@
-const apikey = '';
+const apiKey = '';
 const weatherDataElement = document.querySelector('#weather-data');
 const cityInputElement = document.querySelector('#city-input');
 const formElement = document.querySelector('form');
@@ -8,7 +8,7 @@ const getWeatherData = async (cityValue) => {
 		if (typeof +cityValue !== NaN) {
 			throw new Error('Invalid input');
 		}
-		const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityValue}&appid=${apikey}&units=metric`);
+		const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityValue}&appid=${apiKey}&units=metric`);
 		if (!response.ok) {
 			throw new Error('Network response was not ok');
 		}

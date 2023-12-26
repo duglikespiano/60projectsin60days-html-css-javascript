@@ -51,3 +51,4 @@
 16. BMI calculator
 17. Random quote generator
 18. Temperatur converter
+19. Currency converter

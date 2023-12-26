@@ -1,7 +1,7 @@
 const buttonElement = document.querySelector('.button');
 const jokeElement = document.querySelector('.joke');
 
-const apiKey = 'Kk8bsDQKlbh4E4IJnQMkuA==taXQBsu0mTzOOx7B';
+const apiKey = '';
 const apiRequestLimit = 1;
 const url = `https://api.api-ninjas.com/v1/dadjokes?limit=${apiRequestLimit}`;
 const fetchOption = {
