@@ -53,3 +53,4 @@
 18. Temperatur converter
 19. Currency converter
 20. Loan calculator
+21. Random emoji

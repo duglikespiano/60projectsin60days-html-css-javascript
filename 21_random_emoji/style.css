@@ -1,0 +1,40 @@
+body {
+	display: flex;
+	height: 100vh;
+	font-family: 'Courier New', Courier, monospace;
+	background-color: salmon;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 0;
+	margin: 0;
+}
+
+h2 {
+	font-size: 2rem;
+	color: aliceblue;
+}
+
+.section {
+	text-align: center;
+}
+
+.button {
+	font-size: 5rem;
+	border: none;
+	background: rgba(255, 255, 255, 0.2);
+	border-radius: 10px;
+	padding: 15px;
+	filter: grayscale();
+	transition: filter 0.3s ease;
+	cursor: pointer;
+}
+
+.button:hover {
+	filter: grayscale(0);
+}
+
+.emoji-name {
+	color: darkblue;
+	font-weight: 600;
+}
