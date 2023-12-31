@@ -1,0 +1,43 @@
+body {
+	display: flex;
+	height: 100vh;
+	font-family: 'Courier New', Courier, monospace;
+	justify-content: center;
+	align-items: center;
+	background-color: aliceblue;
+	margin: 0;
+}
+
+.button {
+	position: relative;
+	background-color: pink;
+	color: black;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+	border-radius: 5px;
+	text-decoration: none;
+	overflow: hidden;
+	padding: 20px 40px;
+}
+
+.button span {
+	position: relative;
+	z-index: 1;
+}
+
+.button::before {
+	content: '';
+	position: absolute;
+	width: 0;
+	height: 0;
+	background-color: orangered;
+	left: var(--position-x);
+	top: var(--position-y);
+	border-radius: 50%;
+	transform: translate(-50%, -50%);
+	transition: width 0.5s, height 0.5s;
+}
+
+.button:hover::before {
+	width: 300px;
+	height: 300px;
+}
