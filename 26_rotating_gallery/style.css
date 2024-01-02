@@ -1,0 +1,63 @@
+body {
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: rgb(0, 66, 110);
+	overflow: hidden;
+	margin: 0;
+}
+
+.images-container {
+	position: relative;
+	width: 200px;
+	height: 200px;
+	transform-style: preserve-3d;
+	transform: perspective(1000px) rotateY(0deg);
+	transition: transform 0.7s;
+}
+
+.images-container span {
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+	transform: rotateY(calc(var(--i) * 45deg)) translateZ(400px);
+}
+
+.images-container span img {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 0;
+}
+
+.buttons-container {
+	position: relative;
+	width: 80%;
+}
+
+.buttons-container button {
+	position: absolute;
+	bottom: -80px;
+	background-color: slateblue;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	cursor: pointer;
+}
+
+button:hover {
+	filter: brightness(1.5);
+}
+
+.button-previous {
+	left: 20%;
+}
+
+.button-next {
+	right: 20%;
+}
