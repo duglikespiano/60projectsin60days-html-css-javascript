@@ -59,3 +59,4 @@
 24. Button ripple effect
 25. Digital clock
 26. Rotating gallery
+27. Random color generator
