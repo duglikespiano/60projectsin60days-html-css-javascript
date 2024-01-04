@@ -60,3 +60,4 @@
 25. Digital clock
 26. Rotating gallery
 27. Random color generator
+28. Realtime Character Counter
