@@ -61,3 +61,4 @@
 26. Rotating gallery
 27. Random color generator
 28. Realtime character Counter
+29. Profile statistics

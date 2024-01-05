@@ -60,4 +60,5 @@
 25. Digital clock
 26. Rotating gallery
 27. Random color generator
-28. Realtime Character Counter
+28. Realtime character counter
+29. Profile statistics
