@@ -50,7 +50,7 @@
 15. Note app
 16. BMI calculator
 17. Random quote generator
-18. Temperatur converter
+18. Temperature converter
 19. Currency converter
 20. Loan calculator
 21. Random emoji
@@ -64,3 +64,4 @@
 29. Profile statistics
 30. Heart trail animation
 31. Mini Calendar
+32. Animated search bar
