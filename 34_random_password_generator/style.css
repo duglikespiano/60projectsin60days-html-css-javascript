@@ -1,0 +1,87 @@
+body {
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+	overflow: hidden;
+	margin: 0;
+}
+
+.password-container {
+	width: 500px;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+	background-color: pink;
+	margin: 10px;
+}
+
+.input-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-radius: 10px;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+.input {
+	font-size: 24px;
+	letter-spacing: 4px;
+	background-color: transparent;
+	border: none;
+}
+
+.input::placeholder {
+	letter-spacing: 0px;
+}
+
+.fa-copy {
+	opacity: 0.3;
+	transition: all 0.3s ease;
+	cursor: pointer;
+}
+
+.fa-copy:hover {
+	opacity: 0.7;
+}
+
+.button {
+	background-color: black;
+	font-size: 20px;
+	color: #fff;
+	border-radius: 5px;
+	border: none;
+	padding: 10px 20px;
+	margin: 10px 0;
+}
+
+.button:hover {
+	background-color: green;
+}
+
+.button:active {
+	transform: scale(0.95);
+}
+
+.alert-container {
+	position: fixed;
+	display: flex;
+	width: 300px;
+	height: 50px;
+	right: -300px;
+	bottom: 20px;
+	justify-content: center;
+	align-items: center;
+	font-family: inherit;
+	font-size: 20px;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+	background-color: lightgreen;
+	transition: all 0.4s ease;
+}
+
+.alert-container.active {
+	right: 20px;
+}

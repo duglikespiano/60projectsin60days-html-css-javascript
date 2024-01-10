@@ -66,3 +66,4 @@
 31. Mini Calendar
 32. Animated search bar
 33. Social media selector menu
+34. Random password generator
