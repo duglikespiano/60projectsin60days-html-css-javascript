@@ -65,3 +65,4 @@
 30. Heart trail animation
 31. Mini Calendar
 32. Animated search bar
+33. Social media selector menu
