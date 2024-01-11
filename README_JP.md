@@ -67,3 +67,4 @@
 32. Animated search bar
 33. Social media selector menu
 34. Random password generator
+35. Testimonial slider
