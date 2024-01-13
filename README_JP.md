@@ -69,3 +69,4 @@
 34. Random password generator
 35. Testimonial slider
 36. New year countdown
+37. Emoji rating
