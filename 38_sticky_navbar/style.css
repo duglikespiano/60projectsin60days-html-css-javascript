@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+}
+
+.top-container {
+	display: flex;
+	height: 100vh;
+	background-image: url('https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80');
+	background-size: cover;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.top-container h1 {
+	color: #fff;
+	font-size: 50px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	letter-spacing: 2px;
+}
+
+.text {
+	margin: 50px 5%;
+	font-family: sans-serif;
+}
+
+.navbar {
+	position: fixed;
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	align-content: center;
+	background-color: #fff;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+	transition: background-color 0.4s ease;
+}
+
+.navbar.active {
+	background-color: rgb(129, 147, 209);
+}
+
+.navbar.active ul li a {
+	color: #fff;
+}
+
+.navbar ul {
+	display: flex;
+	list-style-type: none;
+}
+
+.navbar ul li a {
+	color: black;
+	text-decoration: none;
+	font-family: cursive;
+	margin: 0 10px;
+}
+
+.navbar ul li a:hover {
+	color: red;
+}
