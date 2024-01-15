@@ -71,3 +71,4 @@
 36. New year countdown
 37. Emoji rating
 38. Sticky navbar
+39. Double landing page
