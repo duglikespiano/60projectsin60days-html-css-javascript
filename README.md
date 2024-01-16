@@ -72,3 +72,4 @@
 37. Emoji rating
 38. Sticky navbar
 39. Double landing page
+40. Auto text effect animation
