@@ -73,3 +73,4 @@
 38. Sticky navbar
 39. Double landing page
 40. Auto text effect animation
+41. Background image scroll effect
