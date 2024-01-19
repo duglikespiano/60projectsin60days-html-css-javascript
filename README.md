@@ -75,3 +75,4 @@
 40. Auto text effect animation
 41. Background image scroll effect
 42. Blurred background popup
+43. Darkmode toggle
