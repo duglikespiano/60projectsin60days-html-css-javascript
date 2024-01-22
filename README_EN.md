@@ -76,3 +76,5 @@
 41. Background image scroll effect
 42. Blurred background popup
 43. Darkmode toggle
+44. Drum kits
+45. Todo list
