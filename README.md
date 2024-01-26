@@ -82,3 +82,4 @@
 47. Multiplication app
 48. Step progress bar
 49. Mouse event
+50. Loading bar
