@@ -81,3 +81,4 @@
 46. Random photos
 47. Multiplication app
 48. Step progress bar
+49. Mouse event
