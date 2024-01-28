@@ -83,3 +83,4 @@
 48. Step progress bar
 49. Mouse event
 50. Loading bar
+51. Image slider
