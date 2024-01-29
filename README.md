@@ -85,3 +85,4 @@
 50. Loading bar
 51. Image slider
 52. Video trailer popup
+53. Clock
