@@ -86,5 +86,6 @@
 51. Image slider
 52. Video trailer popup
 53. Clock
-54. Month Calendar
+54. Month calendar
 55. Counter
+56. Q&A section
