@@ -91,3 +91,4 @@
 56. Q&A section
 57. Tabs
 58. Background video
+59. Sidebar menu
