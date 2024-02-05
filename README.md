@@ -92,3 +92,4 @@
 57. Tabs
 58. Background video
 59. Sidebar menu
+60. Navbar menu

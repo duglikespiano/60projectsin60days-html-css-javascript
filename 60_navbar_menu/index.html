@@ -12,20 +12,27 @@
 		/>
 		<link href="./style.css" rel="stylesheet" />
 		<script src="./app.js" defer></script>
-		<title>Sidebar Menu</title>
+		<title>Navbar Menu</title>
 	</head>
 	<body>
-		<i class="fa fa-bars" aria-hidden="true"></i>
-		<div class="sidebar">
-			<div class="sidebar-header">
-				<img src="./logo.svg" class="logo" alt="logo" />
-				<i class="fa fa-times" aria-hidden="true"></i>
+		<nav>
+			<div class="nav-main">
+				<div class="nav-header">
+					<img src="./logo.svg" alt="logo" />
+					<i class="fa fa-bars" aria-hidden="true"></i>
+				</div>
+				<ul class="menu">
+					<li>
+						<a href="#">Home</a>
+					</li>
+					<li>
+						<a href="#">About</a>
+					</li>
+					<li>
+						<a href="#">Contact</a>
+					</li>
+				</ul>
 			</div>
-			<ul class="menu">
-				<li><a href="#">Home</a></li>
-				<li><a href="#">About</a></li>
-				<li><a href="#">Contact</a></li>
-			</ul>
-		</div>
+		</nav>
 	</body>
 </html>
