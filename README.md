@@ -16,7 +16,7 @@
 
 - 프로젝트명 : 60projectsin60days_html,css,javascript
 - 관련URL : https://www.udemy.com/course/html-css-js-projects
-- 기간 : 2023.12.09 - 진행중
+- 기간 : 2023.12.09 - 2024.02.06
 - 인원 : 1인
 - 기술스택 : </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">

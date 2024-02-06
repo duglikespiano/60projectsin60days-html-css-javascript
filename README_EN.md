@@ -16,7 +16,7 @@
 
 - Project title : 60projectsin60days_html,css,javascript
 - Related URL : https://www.udemy.com/course/html-css-js-projects
-- Period : Dec 09 2023 - In progress
+- Period : Dec 09 2023 - Feb 06 2024
 - Member(s) : Dug Park
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">

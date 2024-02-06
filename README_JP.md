@@ -16,7 +16,7 @@
 
 - Project タイトル: 60projectsin60days_html,css,javascript
 - 関連 URL : https://www.udemy.com/course/html-css-js-projects
-- 期間 : 2023.12.08 - 進行中
+- 期間 : 2023.12.08 - 2024.02.06
 - 人員 : 1 人
 - 技術スタック : </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
